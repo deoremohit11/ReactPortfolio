@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.7923da48.css",
+    "main.js": "/ReactPortfolio/static/js/main.626b970f.js",
+    "static/media/navbar.jpg": "/ReactPortfolio/static/media/navbar.bd906db7afbf7913cedc.jpg",
+    "static/media/reactSmooth.jpg": "/ReactPortfolio/static/media/reactSmooth.7eded27c30c4e371a304.jpg",
+    "static/media/arrayDestruct.jpg": "/ReactPortfolio/static/media/arrayDestruct.81708ab326e0d1c1c675.jpg",
+    "static/media/installNode.jpg": "/ReactPortfolio/static/media/installNode.a4d98a933f093b50ae79.jpg",
+    "static/media/heroImage.png": "/ReactPortfolio/static/media/heroImage.c4ba65c37129ad0808a5.png",
+    "static/media/reactParallax.jpg": "/ReactPortfolio/static/media/reactParallax.dafc49022380318d0c31.jpg",
+    "static/media/reactWeather.jpg": "/ReactPortfolio/static/media/reactWeather.5be4323b50b6a2ea25fd.jpg",
+    "static/media/react.png": "/ReactPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/nextjs.png": "/ReactPortfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/ReactPortfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/ReactPortfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/graphql.png": "/ReactPortfolio/static/media/graphql.573ef9bee0a9d421dfb7.png",
+    "static/media/tailwind.png": "/ReactPortfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/ReactPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/ReactPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.7923da48.css.map": "/ReactPortfolio/static/css/main.7923da48.css.map",
+    "main.626b970f.js.map": "/ReactPortfolio/static/js/main.626b970f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7923da48.css",
+    "static/js/main.626b970f.js"
+  ]
+}
